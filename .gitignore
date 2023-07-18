@@ -1,5 +1,5 @@
-# .devcontainer/
-# .vscode/
+.devcontainer/
+.vscode/
 __pycache__
 target/
 
@@ -8,7 +8,7 @@ target/
 *.csv
 *.feather
 *.ipynb
-# *.json
+*.json
 *.lock
 *.pyc
 *.xlsx
