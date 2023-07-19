@@ -1,8 +1,8 @@
 # Template for Python and Rust projects
 
-## How to use
-
 A template for Python and/or Rust projects to be developed in a (remote) Docker container with VS Code.
+
+## How to use
 
 1. Open as a folder in VS Code (directly or with Remote-SSH)
 2. Edit `.devcontainer/devcontainer.json` for one's needs
